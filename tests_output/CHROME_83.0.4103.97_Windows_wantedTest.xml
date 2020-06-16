@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="wantedTest"
+    errors="0" failures="0" hostname="" id="" package="wantedTest" skipped="0"
+    tests="1" time="1.779" timestamp="">
+  
+    <testcase name="Header Error Check" classname="wantedTest" time="1.779" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
